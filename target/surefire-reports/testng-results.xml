@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31591" started-at="2020-01-14T18:31:35Z" finished-at="2020-01-14T18:32:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31591" started-at="2020-01-14T18:31:35Z" finished-at="2020-01-14T18:32:07Z">
+      <class name="com.inetBanking.testCases.TC_AddNewCustomerTest_003">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.inetBanking.testCases.TC_AddNewCustomerTest_003@10b3a14f]" name="setup" is-config="true" duration-ms="13109" started-at="2020-01-14T18:31:35Z" finished-at="2020-01-14T18:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomerTest()[pri:0, instance:com.inetBanking.testCases.TC_AddNewCustomerTest_003@10b3a14f]" name="addNewCustomerTest" duration-ms="16558" started-at="2020-01-14T18:31:49Z" finished-at="2020-01-14T18:32:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.TC_AddNewCustomerTest_003@10b3a14f]" name="tearDown" is-config="true" duration-ms="1514" started-at="2020-01-14T18:32:05Z" finished-at="2020-01-14T18:32:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetBanking.testCases.TC_AddNewCustomerTest_003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
