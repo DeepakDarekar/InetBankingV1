@@ -1,1 +1,5 @@
 Txt Created for Test
+Now I am Updating File Locally in My Eclipse(Workspace)
+and Then adding Changes to Staging Area
+and then Commit Changes to git Repository 
+and Then Push changes to github(Remote Repository)
